@@ -42,7 +42,7 @@ Python 的工程師。
 ## 📥 Pull Required Models
 
     ollama pull nomic-embed-text
-    ollama pull llama3
+    ollama pull gpt-oss:20b
 
 ## 🧱 Build
 
